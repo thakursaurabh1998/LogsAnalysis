@@ -15,6 +15,7 @@ Steps to run this python script:
 * Problem Statement 1 - article_views.txt
 * Problem Statement 2 - authors_views.txt
 * Problem Statement 3 - errors.txt
+
 *__These text files are also provided in the repo.__*
 
 ## View Definitions
